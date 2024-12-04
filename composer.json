@@ -1,0 +1,13 @@
+{
+    "name": "tops/backmarket",
+    "description": "This is lib",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Tops\\Backmarket\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
